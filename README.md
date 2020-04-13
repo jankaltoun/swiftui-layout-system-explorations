@@ -1,2 +1,3 @@
-# swiftui-layout-system-explorations
-A Playground exploring SwiftUI's layout system
+# SwiftUI Layout System Explorations
+
+A Playground exploring SwiftUI's layout system.
