@@ -167,7 +167,7 @@ let sizingView = SizingContainer() {
 //}
 
 /*:
- Another example is a basic `Image`. It will always size itself with its default dimensions.
+ Another example is a basic `Image`. It will always size itself with its ideal dimensions.
 */
 
 //let sizingView = SizingContainer() {

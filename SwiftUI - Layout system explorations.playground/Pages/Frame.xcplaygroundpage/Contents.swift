@@ -279,7 +279,7 @@ struct TestView: View {
 //    var body: some View {
 //        Image(systemName: "flame")
 //            .font(.system(size: 100))
-//            .fixedSize()
+//            //.fixedSize()
 //    }
 //}
 
